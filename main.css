@@ -1,3 +1,16 @@
 h1 {
   margin-bottom: 0.5rem !important;
+  text-align: center;
+}
+
+#content, button {
+  font-size: 22px !important;
+}
+
+button {
+  width: 100%;
+}
+
+#content {
+  margin: 1.5rem 4rem;
 }
